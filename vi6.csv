@@ -1,0 +1,98 @@
+university,numFaculty,numStaff,numStudents,numDoctoral,endowment,country,established,numPostgrad,numUndergrad
+Alverno College,110,450,2654,,1.67E+07,United States,1887,340,2314
+Appalachian State University,824,1592,17500,,5.61E+07,United States,1899,1884,15616
+Arkansas State University,469,965,13438,142,3.09E+07,United States,1909,2132,10024
+Augusta State University,200,300,6919,,45478931,United States,1785,960,5628
+Boston University,3931,7410,30823,NA,1020000,United States,1839,13232,15977
+Buffalo State College,698,1779,11659,,2.27E+07,United States,1871,1657,10002
+California Polytechnic State University,1244,1383,18762,NA,1.73E+08,United States,1901,1037,17725
+California State University%2C Bakersfield,4412009,5462007,80022011,,1.79E+07,United States,1965,10732010,65252010
+California State University%2C Channel Islands,205,370,4179,NA,9890000,United States,2002,255,3800
+California State University%2C Chico,857,954,15920,NA,43000000,United States,1887,1192,14728
+California State University%2C Sacramento,14072011,12802011,285392012,NA,29000000,United States,1947,29982012,255412012
+Capitol College,12,54,754,NA,3000000,United States,1927,412,342
+City College of New York,508,401,15889,,1.31E+08,United States,1847,3282,12541
+Columbus State University,473,572,8298,32,2.93E+07,United States,1958,1229,7069
+Drexel University,2396,1404,22479,NA,4.27E+08,United States,1891,7000,12004
+East Carolina University,1804,5354,27816,NA,1.30E+08,United States,1907,6417,20974
+Eastern Kentucky University,667,1672,16567,,4.44E+07,United States,1874,2171,14396
+Eastern Michigan University,1000,700,22974,,4.07E+07,United States,1849,4729,18245
+Eastern Washington University,802,830,12130,,52177934,United States,1882,1227,10903
+Edinboro University of Pennsylvania,346,392,9106,,1.12E+07,United States,1857,1945,7161
+Fayetteville State University,328,581,5930,,1.51E+07,United States,1867,768,5162
+Ferris State University,561,832,14560,41,2.51E+07,United States,1884,1169,13350
+Florida Atlantic University,1621,1652,29290,,1.56E+08,United States,1961,4245,23613
+Florida Gulf Coast University,500,681,12024,NA,5.71E+07,United States,1991,1089,10333
+Florida International University,3303,4883,47966,,138000000,United States,1965,8819,39147
+Florida State University,2150,6129,41710,NA,453000000,United States,1851,8486,31851
+George W. Woodruff School of Mechanical Engineering,92,55,2488,,6.76E+07,United States,1885,723,1765
+Georgia Health Sciences University,1027,3500,2442,1135,9.05E+07,United States,1828,892,390
+Georgia Southern University,727,353,20212,,3.75E+07,United States,1906,2687,17525
+Harvard University,2107,2497,21225,NA,32000000,United States,1636,14044,526
+Idaho State University,838,1269,15553,,40200750,United States,1901,2661,12892
+Indiana Wesleyan University,251,1150,15872,,45000000,United States,1920,4711,3201
+Ithaca College,673,989,6448,,186000000,United States,1892,417,6031
+Kennesaw State University,745,1400,23103,,2.57E+07,United States,1963,1756,21347
+Kent State University,2458,2799,28602,NA,1.09E+08,United States,1910,6166,22436
+Lamar University,600,550,13773,,8.00E+07,United States,1923,4000,10500
+Louisiana State University,1500,5000,25215,,3.86E+08,United States,1860,4112,21103
+Loyola University Maryland,297,307,6080,,1.66E+08,United States,1852,2217,3863
+Maharishi University of Management,47,200,1210,NA,9000000,United States,1971,430,26
+Michigan State University,4985,6355,47800,,1449000,United States,1855,11073,36058
+Michigan Technological University,458,1269,6957,NA,6.36E+07,United States,1885,1318,5639
+"Minnesota State University, Mankato",600,1300,15649,130,3.37E+07,United States,1868,1716,13547
+Minnesota State University Moorhead,337,789,7497,,7180000,United States,1887,440,7057
+Mississippi State University,1359,3361,7.07E+07,,2.84E+08,United States,1878,4570,15074
+Missouri University of Science and Technology,475,906,7521,NA,1120000,United States,1870,1702,5504
+Montana State University,1040,1924,14153,,8.67E+07,United States,1893,1924,10840
+Montana State University %E2%80%93 Bozeman,1040,1924,14153,,8.67E+07,United States,1893,1924,10840
+Mount St. Mary's College,327,283,2480,,6.54E+07,United States,1925,500,1980
+North Carolina State University,2068,5554,34767,,6.18E+08,United States,1887,9591,25176
+Northern Kentucky University,1159,1021,15405,NA,6.80E+07,United States,1968,2199,13206
+Nova Southeastern University,2083,4319,28457,NA,6.45E+07,United States,1964,22060,6397
+Oregon Institute of Technology,139,222,3927,,4.25E+07,United States,1947,20,3907
+Pace University,1238,1527,14177,,1.03E+08,United States,1906,4471,8928
+Portland State University,2592,1632,29703,,4.00E+07,United States,1946,6481,23222
+Princeton University,1172,1103,7567,NA,1.44E+07,United States,1746,2479,5113
+Regent University,629,381,4494,846,1.86E+08,United States,1978,2130,1960
+Rice University,650,2152,5760,,4.50E+09,United States,1912,2275,3485
+Rutgers%E2%80%93New Brunswick,2002,5309,36041,,603000000,United States,1766,8010,28031
+Saint Joseph's University,313,1060,7542,,1.73E+08,United States,1851,2544,4600
+San Francisco State University,1506,2010,28290,NA,49000000,United States,1899,3895,24395
+Southern Illinois University Edwardsville,1003,2437,14235,518,1.64E+07,United States,1957,2807,11428
+St. Cloud State University,904,845,17231,,2.10E+07,United States,1869,1695,15536
+The Evergreen State College,267,495,4800,,29985851,United States,1967,332,4468
+University of Alaska Fairbanks,835,350,11034,,6.17E+07,United States,1917,1238,9796
+University of California%2C Davis,2527,21372,32653,NA,7.31E+08,United States,1905,7498,25096
+University of California%2C Los Angeles,4016,26139,39271,NA,2640000,United States,1882,12072,27199
+University of California%2C Riverside,1638,1938,20956,NA,9.66E+07,United States,1954,2433,18523
+University of Central Florida,1948,8619,58698,179,1.25E+08,United States,1963,8517,50002
+University of Cincinnati,5928,3889,4197033329,NA,1.00E+09,United States,1819,10436,3198523096
+University of Denver,1259,1628,11476,,3.50E+08,United States,1864,6387,5087
+University of Illinois at Urbana%E2%80%93Champaign,2971,8085,42606,,1600000,United States,1867,10674,31932
+University of Kansas,2529,10816,29462,NA,955000000,United States,1865,8363,20330
+University of Maryland%2C College Park,3996,5116,37641,,7.92E+08,United States,1856,10719,26922
+University of Miami,3027,10437,15657,NA,7.20E+08,United States,1925,5289,10368
+University of Michigan,6238,18426,41674,NA,6560000,United States,1817,15309,26208
+University of Michigan%E2%80%93Flint,430,510,8289,NA,6.34E+07,United States,1956,1264,6874
+University of Michigan College of Engineering,476,500,8094,,3.76E+08,United States,1854,2810,5284
+University of Missouri,4347,12534,34255,,1040000,United States,1839,7781,26821
+University of Missouri%E2%80%93Kansas City,1185,2029,15064,NA,1120000,United States,1933,5157,9907
+University of Missouri%E2%80%93St. Louis,1107,1178,16548,178,39009814,United States,1960,178380,549960
+University of Nevada%2C Las Vegas,1000,3282,28203,NA,1.69E+08,United States,1957,6378,22708
+University of North Carolina at Chapel Hill,3518,8534,29390,,1.91E+09,United States,1789,10811,18579
+University of North Carolina at Greensboro,1060,2530,18502,,1.52E+08,United States,1891,3838,14664
+University of North Dakota,790,1906,5.29E+07,,1.22E+08,United States,1883,9201600,4.01E+07
+University of San Francisco,612,506,9799,NA,2.13E+08,United States,1855,3728,6071
+University of Southern California,4735,10774,38010,NA,3500000,United States,1880,20596,17414
+University of Tennessee,1309,8458,27523,,6.65E+08,United States,1794,6215,21308
+University of Tennessee system,2250,6950,44595,,1000000,United States,1968,10056,34539
+University of Texas at El Paso,1228,1511,21011,,1.51E+08,United States,1914,3806,17205
+University of Utah,2687,14362,30819,,5.13E+08,United States,1850,7448,23371
+University of Washington,5803,16174,42907,NA,1650000,United States,1861,12117,30790
+University of Wisconsin%E2%80%93Eau Claire,479,1150,10549,NA,37524837,United States,1916,543,10346
+Utah State University,880,1614,28994,NA,2.09E+08,United States,1888,3478,25516
+Villanova University,545,2000,10482,,3.70E+08,United States,1842,3200,6394
+Virginia Commonwealth University,2032,11041,31899,NA,3.50E+08,United States,1838,6454,23754
+Western Washington University,463,1172,14575,,2.68E+07,United States,,1179,13396
+West Virginia University,1870,7566,29616,NA,4.06E+08,United States,1867,6905,22711
