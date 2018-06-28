@@ -107,3 +107,5 @@ chart which is 'US Universities with upto total 1000 faculties'.
  The csv data is used in this project is taken from the following link: 
 
 * [VI 2 assignment of this course](https://git-community.cs.odu.edu/ktripath/VI2/blob/master/universityData-csv.csv)
+or
+* [universityData-csv.csv] (https://github.com/kktripathi/datavisualization6/blob/master/universityData-csv.csv)
